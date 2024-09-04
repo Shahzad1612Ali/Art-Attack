@@ -22,15 +22,7 @@ This project provides users with an easy-to-use and fun way to draw images virtu
 - OpenCV
 - MediaPipe
 - Tkinter
-- Sklearn
-- Scipy
 - Numpy
-
-## Installation
-
-1. Clone the repository.
-2. Install the required dependencies using `pip install -r requirements.txt`.
-3. Run the main script.
 
 ## Usage
 
@@ -39,7 +31,3 @@ This project provides users with an easy-to-use and fun way to draw images virtu
 3. Follow the instructions provided by the GUI to interact with each feature.
 4. Save the modified image as required.
 5. Exit the application.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
